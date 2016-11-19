@@ -1,0 +1,71 @@
+body,
+html {
+    min-height: 100%;
+
+}
+
+body {
+    background-image: url('images/karen.jpg');
+    
+    
+    
+    
+
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+/* i have spent hours watching tutorials and reading and I am still having 
+problems obtaining the effect of an background image.  Is it my file path 
+is incorrect?  I have changed that and it does not seem to work.  I believe I am 
+linked correctly to the index.html page.  My website is image heavy and it 
+is very frustrating and disheartening to spend so many hours, and not be able to 
+pull this off.  I understand the concept, but can't seem to execute the action properly.
+I will just have to create the site and hope that when Belem consut with Belem and
+hope that the pictures work */
+
+
+.top-header {
+    width: 100%;
+    max-width: 960px;
+    font: 6em 'Bungee Inline', cursive, Serif;
+    color: #fff;
+    margin: 40px auto;
+    text-align: center;
+}
+/* at least I got the Bungie Inline & fire animation effet to work.  google fonts rocks!*/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #877B7B;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    font-family: Montserrat, cursive, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    color: #FFFEFE;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+    border-right: 1px solid #060606;
+}
+
+li: last-child {
+    border-right: none;
+}
+
+#content {
+    margin: 80;
+}

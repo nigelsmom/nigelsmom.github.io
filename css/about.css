@@ -1,0 +1,70 @@
+body {
+    background-color: #F73563;
+    
+}
+
+
+
+h1 {
+font-family: 'Neue Hass Grotesk', 'Libre Franklin', 'san Serif';
+color: #1C1C1C;
+font-size: 35px;
+font-weight: 600;
+font-style: normal;
+line-height: 37.5px;
+padding: 0px 0px 0px 0px;
+text-shadow: 4px 4px 4px #FEFCFC;
+text-align-last: center
+
+}
+
+h2 {
+    font-family: 'Neue Hass Grotesk', 'Libre Franklin', 'san Serif';
+    color: #1C1C1C;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 34.5px;
+    padding: 0px 0px 0px 0px;
+    position: float: left;
+    text-shadow: 4px 4px 4px  #FEFCFC;
+    
+}
+    
+    
+    
+.qandapic {
+    max-width: 100%;
+}
+.main {
+    font-family: 'Neue Hass Grotesk', 'Open Sans', Serif;
+    font-size: 17px;
+    color: #1C1C1C;
+    line-height: 27px;
+    font-weight: 100;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+li{
+    font-family: 'Open Sans' Serif, sans-serif;
+    color: #060606;
+    font-size: 17px;
+    list-style-type: lower-latin;
+    
+}
+
+p {
+    text-indent: 15%;
+    border: 1px dotted #060505;
+    padding: 1em;
+}
+
+
+/* it would nice if i could learn how to make the images rotate in like a huge
+black and white globe under the text.  I've spent so many hours looking at exeamples for 
+simple things such as setting a picture as a backgroound pic and overlaying the text
+that I've left little time for anyting else.  It's just taking away precious time and 
+stalling the completion of the project*/
+
+/* my short term goals are to get the images qandapic images centered across the page and 
+and opening.  In addition I need to make sure that the navigation page is linking to the about page.
+I seem to be having trouble with the path.  Will someone be available to answer my questions?*/
